@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MyProject.student.views.*" />
+          <option value="MyCollege.MyCollege.urls.user" />
+          <option value="MyCollege.MyCollege.urls.teacher" />
+          <option value="MyCollege.teacher.models.student" />
+          <option value="StudyHall.user.views.student" />
+          <option value="StudyHall.user.views.slider" />
+          <option value="StudyHall.user.views.contactus" />
+          <option value="StudyHall.user.views.myfeedback" />
+          <option value="studyHall.user.views.*" />
+          <option value="studyHall.student.views.*" />
+          <option value="django.conf.urls.url" />
+          <option value="django.conf.urls.path" />
+          <option value="studyHall.studyHall.urls.*" />
+          <option value="studyHall.studyHall.helper.*" />
+          <option value="studyHall.calendarapp.views.*" />
+          <option value="studyHall.studyHall.views.calendarapp" />
+          <option value="studyHall.views" />
+          <option value="studyHall.teacher.views.student" />
+          <option value="studyHall.teacher.views.subject" />
+          <option value="studyHall.teacher.views.mylectures" />
+          <option value="studyHall.teacher.views.semester" />
+          <option value="studyHall.teacher.views.department" />
+          <option value="studyHall.teacher.views.enotes" />
+          <option value="studyHall.teacher.views.mysoftware" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
